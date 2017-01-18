@@ -1,1 +1,1 @@
-# mermaid-text
+# mermaid-text legend of blue
